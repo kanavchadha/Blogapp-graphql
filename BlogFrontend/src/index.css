@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css2?family=Noticia+Text&display=swap");
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Noticia Text', serif;
+}
+
+a{
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: whitesmoke;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #3b0062;
+  border-radius: 6px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #6d04b3ef;
+}

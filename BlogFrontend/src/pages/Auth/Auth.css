@@ -1,0 +1,15 @@
+.auth-form {
+    width: 90%;
+    margin: auto;
+    padding: 1rem;
+    border: 1px solid #3b0062;
+    border-radius: 5px;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.3);
+  }
+  
+  @media (min-width: 768px) {
+    .auth-form {
+      width: 32rem;
+    }
+  }
+  

@@ -1,0 +1,15 @@
+.logo {
+    font-size: 1rem;
+    font-weight: bold;
+    border: 1px solid white;
+    padding: 0.5rem;
+    color: white;
+    border-radius: 3px;
+    transition: 0.3s;
+}
+
+.logo:hover {
+    background: white;
+    text-decoration: none;
+    color: rgb(117, 20, 117);
+}
